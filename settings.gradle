@@ -1,1 +1,1 @@
-include "cities-service", "cities-client", "cities-ui"
+include "cities-client", "cities-ui"
